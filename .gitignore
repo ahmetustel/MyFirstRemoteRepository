@@ -1,0 +1,22 @@
+#VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# img
+*.jpg
+*.png
+img/
+
+# video
+
+# packages
+*.log
+# log
+
+password.txt
+
+*.pdf
