@@ -4,4 +4,3 @@
 
 Örnek yazılar...
 
-[deneme](http://google.com)
